@@ -1,5 +1,5 @@
 #question number 1
-a="parikshi"
+a="chaloba"
 print(len(a))
 
 #question number 2

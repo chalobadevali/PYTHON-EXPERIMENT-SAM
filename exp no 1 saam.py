@@ -23,7 +23,7 @@ print(type(f))
 
 #dictionary
 g={"name":"dev",
-   "age":20}
+   "age":19}
 print(type(g))
 
 #set

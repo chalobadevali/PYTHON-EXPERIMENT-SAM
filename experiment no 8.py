@@ -5,7 +5,7 @@ my_dict = {
     'date': 10
 }
 
-parikshit={
+chaloba={
     'name':9,
     'surname':5,
     'age':19,
